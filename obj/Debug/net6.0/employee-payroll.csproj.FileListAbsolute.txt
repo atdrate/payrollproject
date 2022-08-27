@@ -1,0 +1,15 @@
+C:\Users\AZ\Desktop\myproject\employee-payroll\obj\Debug\net6.0\employee-payroll.csproj.AssemblyReference.cache
+C:\Users\AZ\Desktop\myproject\employee-payroll\obj\Debug\net6.0\employee-payroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZ\Desktop\myproject\employee-payroll\obj\Debug\net6.0\employee-payroll.AssemblyInfoInputs.cache
+C:\Users\AZ\Desktop\myproject\employee-payroll\obj\Debug\net6.0\employee-payroll.AssemblyInfo.cs
+C:\Users\AZ\Desktop\myproject\employee-payroll\obj\Debug\net6.0\employee-payroll.csproj.CoreCompileInputs.cache
+C:\Users\AZ\Desktop\myproject\employee-payroll\bin\Debug\net6.0\employee-payroll.exe
+C:\Users\AZ\Desktop\myproject\employee-payroll\bin\Debug\net6.0\employee-payroll.deps.json
+C:\Users\AZ\Desktop\myproject\employee-payroll\bin\Debug\net6.0\employee-payroll.runtimeconfig.json
+C:\Users\AZ\Desktop\myproject\employee-payroll\bin\Debug\net6.0\employee-payroll.dll
+C:\Users\AZ\Desktop\myproject\employee-payroll\bin\Debug\net6.0\employee-payroll.pdb
+C:\Users\AZ\Desktop\myproject\employee-payroll\obj\Debug\net6.0\employee-payroll.dll
+C:\Users\AZ\Desktop\myproject\employee-payroll\obj\Debug\net6.0\refint\employee-payroll.dll
+C:\Users\AZ\Desktop\myproject\employee-payroll\obj\Debug\net6.0\employee-payroll.pdb
+C:\Users\AZ\Desktop\myproject\employee-payroll\obj\Debug\net6.0\employee-payroll.genruntimeconfig.cache
+C:\Users\AZ\Desktop\myproject\employee-payroll\obj\Debug\net6.0\ref\employee-payroll.dll
