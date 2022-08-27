@@ -28,9 +28,9 @@ namespace employee_payroll
                         break;
                 }
                 empWages=empHour*EM_RATE_PER_HOUR;
-                totalempWages = +empWages;
-                Console.WriteLine("employee monthly salarry is"+totalempWages);
-                
+               totalempWages+=empWages;
+                Console.WriteLine("employee  salarry is"+empWages);
+                Console.WriteLine("total employee monthly wage "+totalempWages);
 
             }
         }
