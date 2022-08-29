@@ -1,0 +1,36 @@
+﻿namespace employee_payroll
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("welcome to employee payroll");
+            Console.WriteLine("chosse option\n1 check present or absent \n2 calculate daily wage\n3 calculate percentage \n4 programme with switch case \n5 calculate monthly wage \n6 while loop monthly wage");
+            int opt=Convert.ToInt32(Console.ReadLine());
+
+            switch (opt)
+            { 
+              case 1:
+                    employeepresentabsent.employeeattendancecheck();
+                    break;
+             case 2:
+                    dailywage.calculatedailywage();
+                    break;
+                case 3:
+                    calculatepercantage.parttimewage();
+                    break;
+                    case 4:
+                    usingswitchcase.switchcaseprogram();
+                    break;
+                case 5:
+                    forloop.calculateEmployeemonthwage();
+                    break;
+                case 6:
+                    whileloopmonthlywage.calculatewage();   
+                    break;
+            
+            }
+
+        }
+    }
+}
